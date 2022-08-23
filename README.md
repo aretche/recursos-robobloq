@@ -1,11 +1,50 @@
-# robobloq
+# Recursos Robobloq
 
-Programas y Recursos para el robot Q-Scout de Robobloq
+Programas y recursos para los robots Q-Scout y Qoopers de Robobloq
 
-## Documentos
+| ![](imagenes/qscout.jpg) | ![](imagenes/qoopers.jpg) |
+|:------------------------:|:-------------------------:|
+|         Q-Scout          |          Qoopers          |
 
-* [Manual de usuario del robot Q-Scout (en español)](docs/manuales/es/manual-Q-Scout-v02.pdf)
-* [MATEBOT: Robótica y programación para la educación primaria](docs/manuales/es/mate-bot-primaria.pdf)
-* [Manual Didáctico Q-Scout: Robótica Educativa - Nivel Primario](docs/manuales/es/manual_didactico_Q-Scout-robotica_educativa–nivel_primario.pdf)
-* [Manual de usuario del robot Q-Scout (en inglés)](docs/manuales/en/Q-scout_User_Manual.pdf)
-* [Curso empleando el robot Q-Scout (en inglés)](docs/manuales/en/Q-scout-course-EN.pdf)
+## Recursos
+
+### Guías didácticas
+
+#### Q-Scout
+
+* [MATEBOT: Robótica y programación para la educación primaria](documentos/guias_didacticas/q-scout/mate-bot-primaria.pdf)
+* [Manual Didáctico Q-Scout: Robótica Educativa - Nivel Primario](documentos/guias_didacticas/q-scout/manual_didactico_Q-Scout-robotica_educativa–nivel_primario.pdf)
+* [Curso empleando el robot Q-Scout (en inglés)](documentos/guias_didacticas/q-scout/Q-scout-course-EN.pdf)
+
+#### Qoopers
+
+* [EMOTIBOT: Robótica y programación para nivel secundario](documentos/guias_didacticas/qoopers/emotibot-secundaria.pdf)
+* [Saberes Digitales: Robot Móvil](documentos/guias_didacticas/qoopers/manual_didactico-robot_movil.pdf)
+
+### Manuales
+
+#### Q-Scout
+
+* [Manual de usuario del robot Q-Scout (en español)](documentos/manuales/q-scout/manual-Q-Scout-v02.pdf)
+* [Manual de usuario del robot Q-Scout (en inglés)](documentos/manuales/q-scout/Q-scout_User_Manual.pdf)
+
+#### Qoopers
+
+* [Manual de usuario del robot Qoopers (en español)](documentos/manuales/qoopers/manual-Qoopers-v02.pdf)
+* [Manual de usuario del robot Qoopers (en inglés)](documentos/manuales/qoopers/Qoopers-User_Manual.pdf)
+
+### Diagramas
+
+#### Q-Scout
+
+* [Diagrama placa Qmind](documentos/open_hardware/qmind/K2-Mainboard-SCH.pdf)
+
+#### Qoopers
+
+* [Diagrama placa Qmind Plus](documentos/open_hardware/qmind_plus/K1-Mainboard-SCH.pdf)
+* [Diagrama matiz de LEDs](documentos/open_hardware/qmind_plus/K1-LED-V2.0-SCH.pdf)
+
+#### Sensores
+
+* [Diagrama sensor seguidor de líneas](documentos/open_hardware/electronic_module/Line_Follower_Sensor-V1.0-SCH.pdf)
+* [Diagrama sensor ultrasónico](documentos/open_hardware/electronic_module/Ultrasonic_Sensor-V1.0-SCH.pdf)
