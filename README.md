@@ -21,6 +21,12 @@ Programas y recursos para los robots Q-Scout y Qoopers de Robobloq
 * [EMOTIBOT: Robótica y programación para nivel secundario](documentos/guias_didacticas/qoopers/emotibot-secundaria.pdf) [(fuente)](https://www.educ.ar/recursos/150809/guia-didactica-del-eje-emotibot-para-nivel-secundario) 
 * [Saberes Digitales: Robot Móvil](documentos/guias_didacticas/qoopers/manual_didactico-robot_movil.pdf) [(fuente)](https://saberesdigitales.educar.gob.ar/ROBOT%20M%C3%93VIL)
 
+### Videos
+
+* Componentes y funcionamiento (Educ.ar): [(Q-Scout)](https://youtu.be/ZbRXh4Qp3H4) / [(Qoopers)](https://youtu.be/wlSzMchmNv4)
+* Piezas y armado (Educ.ar): [(Q-Scout)](https://youtu.be/1GOGrhFAbOU) / [(Qoopers)](https://youtu.be/mx_AlqYXsVQ)
+* Entorno de programación (Educ.ar): [(Q-Scout)](https://youtu.be/jnZPlkyZGks) / [(Qoopers)](https://youtu.be/uwcX6-5oJ6w)
+
 ### Manuales
 
 * Manual de usuario del robot Q-Scout [(en español)](documentos/manuales/q-scout/manual-Q-Scout-v02.pdf) [(en inglés)](documentos/manuales/q-scout/Q-scout_User_Manual.pdf)
@@ -35,7 +41,7 @@ Programas y recursos para los robots Q-Scout y Qoopers de Robobloq
 #### Qoopers
 
 * [Diagrama placa Qmind Plus](documentos/open_hardware/qmind_plus/K1-Mainboard-SCH.pdf)
-* [Diagrama matiz de LEDs](documentos/open_hardware/qmind_plus/K1-LED-V2.0-SCH.pdf)
+* [Diagrama matriz de LEDs](documentos/open_hardware/qmind_plus/K1-LED-V2.0-SCH.pdf)
 
 #### Sensores
 
