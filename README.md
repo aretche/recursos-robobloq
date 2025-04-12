@@ -1,6 +1,6 @@
 # Recursos Robobloq
 
-Programas y recursos para los robots Q-Scout y Qoopers de Robobloq
+Información y recursos didácticos para los robots Q-Scout y Qoopers de Robobloq.
 
 | ![imagen del robot Q-Scout](imagenes/qscout.jpg) | ![imagen del robot Qoopers](imagenes/qoopers.jpg) |
 |:------------------------------------------------:|:-------------------------------------------------:|
