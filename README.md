@@ -32,7 +32,7 @@ Información y recursos didácticos para los robots Q-Scout y Qoopers de Roboblo
 
 * Manual de usuario del robot Q-Scout [(en español)](documentos/manuales/q-scout/manual-Q-Scout-v02.pdf) [(en inglés)](documentos/manuales/q-scout/Q-scout_User_Manual.pdf)
 * Manual de usuario del robot Qoopers [(en español)](documentos/manuales/qoopers/manual-Qoopers-v02.pdf) [(en inglés)](documentos/manuales/qoopers/Qoopers-User_Manual.pdf)
-* Manuales de los módulos sensores y actuadores [(en inglés)](documentos/manuales/sensors/index.md)
+* Manuales de los sensores y actuadores Q-tronics [(extraído de la wiki oficial en inglés)](documentos/manuales/sensors/index.md)
 
 ### Diagramas Esquemáticos
 
